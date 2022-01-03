@@ -1,5 +1,5 @@
-- 👋 Hi!, I am Kartik Kumar Panday.
-- 👀 Software Engineer @Paytm.
+- Hi!, I am Kartik Kumar Panday.
+- Software Engineer @Myntra.
 
 
 <p align="center">
